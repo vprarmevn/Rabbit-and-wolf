@@ -1,0 +1,21 @@
+#select{
+    color: white;
+    background-color: black;
+    margin-top: 5px;
+}
+
+#refresh{
+    color: white;
+    background-color: black;
+    margin-top: 5px;
+}
+
+#select:hover{
+    color: black;
+    background-color: whitesmoke;
+}
+
+#refresh:hover{
+    color: black;
+    background-color: whitesmoke;
+}
